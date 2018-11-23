@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ready Steady Bang</string>
+    <string name="exit">Выход</string>
+    <string name="myName">Я:</string>
+    <string name="hisName">Он:</string>
+    <string name="start">Начать</string>
+    <string name="next">Далее</string>
+    <string name="ready">Ready</string>
+    <string name="steady">Steady</string>
+    <string name="bang">BANG!!!</string>
+    <string name="win">Вы победили!</string>
+    <string name="lose">Вы проиграли :(</string>
+
+    <string name="repeat">Повторить</string>
+    <string name="failed">Не удалось подключится к серверу</string>
+    <string name="loading">Загрузка</string>
+
+    <string name="baseURL">http://androidapptestserver.zzz.com.ua/</string>
+</resources>
